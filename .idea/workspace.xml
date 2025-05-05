@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25165382-645d-4d9a-86d2-214ca86fb679" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/calibration.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/calibration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/calibration_data.npz" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/calibration_data.npz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/calibration_data.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/calibration_data.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/capture.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/capture.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/correction.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/correction.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data/images/mire_0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data/images/mire_1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data/images/mire_10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data/images/mire_11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data/images/mire_12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data/images/mire_13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data/images/mire_2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data/images/mire_3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data/images/mire_4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data/images/mire_5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data/images/mire_6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data/images/mire_7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/data/images/mire_8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/detection.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/detection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/erreur.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/erreur.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/estimation.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/estimation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/exemple.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/exemple.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images/mire_0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images/mire_0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images/mire_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images/mire_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images/mire_10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images/mire_10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images/mire_11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images/mire_11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images/mire_12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images/mire_12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images/mire_13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images/mire_13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images/mire_14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images/mire_14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images/mire_15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images/mire_15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images/mire_16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images/mire_16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images/mire_17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images/mire_17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images/mire_18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images/mire_18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images/mire_19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images/mire_19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images/mire_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images/mire_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images/mire_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images/mire_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images/mire_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images/mire_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images/mire_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images/mire_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images/mire_6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images/mire_6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images/mire_7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images/mire_7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images/mire_8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images/mire_8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images/mire_9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images/mire_9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/comparaison_mire_0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/comparaison_mire_0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/comparaison_mire_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/comparaison_mire_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/comparaison_mire_10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/comparaison_mire_10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/comparaison_mire_11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/comparaison_mire_11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/comparaison_mire_12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/comparaison_mire_12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/comparaison_mire_13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/comparaison_mire_13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/comparaison_mire_14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/comparaison_mire_14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/comparaison_mire_15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/comparaison_mire_15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/comparaison_mire_16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/comparaison_mire_16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/comparaison_mire_17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/comparaison_mire_17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/comparaison_mire_18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/comparaison_mire_18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/comparaison_mire_19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/comparaison_mire_19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/comparaison_mire_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/comparaison_mire_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/comparaison_mire_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/comparaison_mire_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/comparaison_mire_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/comparaison_mire_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/comparaison_mire_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/comparaison_mire_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/comparaison_mire_6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/comparaison_mire_6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/comparaison_mire_7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/comparaison_mire_7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/comparaison_mire_8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/comparaison_mire_8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/comparaison_mire_9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/comparaison_mire_9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/corrigee_mire_0.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/corrigee_mire_0.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/corrigee_mire_1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/corrigee_mire_1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/corrigee_mire_10.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/corrigee_mire_10.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/corrigee_mire_11.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/corrigee_mire_11.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/corrigee_mire_12.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/corrigee_mire_12.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/corrigee_mire_13.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/corrigee_mire_13.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/corrigee_mire_14.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/corrigee_mire_14.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/corrigee_mire_15.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/corrigee_mire_15.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/corrigee_mire_16.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/corrigee_mire_16.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/corrigee_mire_17.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/corrigee_mire_17.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/corrigee_mire_18.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/corrigee_mire_18.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/corrigee_mire_19.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/corrigee_mire_19.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/corrigee_mire_2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/corrigee_mire_2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/corrigee_mire_3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/corrigee_mire_3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/corrigee_mire_4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/corrigee_mire_4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/corrigee_mire_5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/corrigee_mire_5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/corrigee_mire_6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/corrigee_mire_6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/corrigee_mire_7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/corrigee_mire_7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/corrigee_mire_8.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/corrigee_mire_8.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/images_corrigees/corrigee_mire_9.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/images_corrigees/corrigee_mire_9.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/visualisation.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/visualisation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/.gitignore" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.venv/Analyse.py" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/anlyse" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/.venv/sali" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2to05jX2JnsJlwkWkoYoEWuC3cp" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Analyse.executor": "Run",
+    "Python.amy.executor": "Run",
+    "Python.calibration.executor": "Run",
+    "Python.capture.executor": "Run",
+    "Python.ci.executor": "Run",
+    "Python.coin.executor": "Run",
+    "Python.correction.executor": "Run",
+    "Python.damier.executor": "Run",
+    "Python.detection.executor": "Run",
+    "Python.erreur.executor": "Run",
+    "Python.estimation.executor": "Run",
+    "Python.exemple.executor": "Run",
+    "Python.improbleme.executor": "Run",
+    "Python.new.executor": "Run",
+    "Python.open.executor": "Run",
+    "Python.spatial.executor": "Run",
+    "Python.verrur.executor": "Run",
+    "Python.visualisation.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/HP/PycharmProjects/PythonProject/test/.venv/images",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\PythonProject\test\.venv\images" />
+      <recent name="C:\Users\HP\PycharmProjects\PythonProject\test\.venv\data\images" />
+      <recent name="C:\Users\HP\PycharmProjects\PythonProject\test\.venv\captures_mire" />
+      <recent name="C:\Users\HP\PycharmProjects\PythonProject\test" />
+      <recent name="C:\Users\HP\PycharmProjects\PythonProject\test\.venv" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\HP\PycharmProjects\PythonProject\test\.venv\data\images" />
+      <recent name="C:\Users\HP\PycharmProjects\PythonProject\test\.venv\captures_mire" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.capture">
+    <configuration name="capture" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/capture.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="erreur" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/erreur.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exemple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="test" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/exemple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.erreur" />
+        <item itemvalue="Python.capture" />
+        <item itemvalue="Python.exemple" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-4f4e415b4190-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.26053.29" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25165382-645d-4d9a-86d2-214ca86fb679" name="Changes" comment="" />
+      <created>1741002939210</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741002939210</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="4c547bdd-8293-4f08-b88a-59d37a7f4734" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="4c547bdd-8293-4f08-b88a-59d37a7f4734">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
